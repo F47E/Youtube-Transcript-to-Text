@@ -20,7 +20,7 @@ To install the required libraries, run the following command in your terminal or
 
 ```bash
 pip install requests beautifulsoup4 youtube_transcript_api
-
+```
 
 ## Running the Script
 
@@ -32,6 +32,7 @@ pip install requests beautifulsoup4 youtube_transcript_api
 
 ```bash
 python youtube_transcript_to_text.py
+```
 
 ### Mac and Linux
 
@@ -41,7 +42,7 @@ python youtube_transcript_to_text.py
 
 ```bash
 python youtube_transcript_to_text.py
-
+```
 
 ## How to Use
 
