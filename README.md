@@ -41,7 +41,7 @@ python youtube_trans_to_text.py
 3. Execute the script by running:
 
 ```bash
-python youtube_transcript_to_text.py
+python youtube_trans_to_txt.py
 ```
 
 ## How to Use
