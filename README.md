@@ -31,7 +31,7 @@ pip install requests beautifulsoup4 youtube_transcript_api
 3. Run the script with:
 
 ```bash
-python youtube_trans_to_text.py
+python youtube_trans_to_txt.py
 ```
 
 ### Mac and Linux
