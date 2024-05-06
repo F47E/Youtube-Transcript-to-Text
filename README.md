@@ -31,7 +31,7 @@ pip install requests beautifulsoup4 youtube_transcript_api
 3. Run the script with:
 
 ```bash
-python youtube_trans_to_txt.py
+python yt_trans_to_txt.py
 ```
 
 ### Mac and Linux
@@ -41,7 +41,7 @@ python youtube_trans_to_txt.py
 3. Execute the script by running:
 
 ```bash
-python youtube_trans_to_txt.py
+python yt_trans_to_txt.py
 ```
 
 ## How to Use
